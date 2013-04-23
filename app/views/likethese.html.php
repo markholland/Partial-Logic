@@ -48,19 +48,19 @@
 		<div class="likethese">
 			<hr>
 			<a href="http://www.bandness.com/"><img src="/images/icons/bandness.jpg"></a>
-			<p><a href="http://www.bandness.com/">Discover</a> music that matches your tastes.</p>
+			<p><a href="http://www.bandness.com/" target="_blank">Discover</a> music that matches your tastes.</p>
 			<hr>
 			<a href="http://www.linernotekids.com/"><img src="/images/icons/lnk.png"></a>
-			<p><a href="http://www.linernotekids.com/">Apparel</a> inspired by Music.</p>
+			<p><a href="http://www.linernotekids.com/" target="_blank">Apparel</a> inspired by Music.</p>
 			<hr>
 			<a href="http://www.front.me/"><img src="/images/icons/frontme.png"></a>
-			<p><a href="http://www.front.me/">Front.me</a> is an innovative new way to consume information, version 2.0 launching soon.</p>
+			<p><a href="http://www.front.me/" target="_blank">Front.me</a> is an innovative new way to consume information, version 2.0 launching soon.</p>
 			<hr>
 			<a href="http://www.theskyfall.com/"><img src="/images/icons/skyfall.png"></a>
-			<p><a href="http://www.theskyfall.com/">The Skyfall</a> is an online source for videogame related news, launching soon.</p>
+			<p><a href="http://www.theskyfall.com/" target="_blank">The Skyfall</a> is an online source for videogame related news, launching soon.</p>
 			<hr>
 			<a href="http://www.pandorafms.com/"><img src="/images/icons/pandora.png"></a>
-			<p><a href="http://www.pandorafms.com/">Pandora FMS®</a> is a software-monitoring tool specially designed for large environments.</p>
+			<p><a href="http://www.pandorafms.com/" target="_blank">Pandora FMS®</a> is a software-monitoring tool specially designed for large environments.</p>
 			<hr>
 		</div>
 	</div>

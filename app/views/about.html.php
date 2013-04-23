@@ -50,15 +50,15 @@
 		 from my current studies in I.T. at the Polytechnic University of Valencia in Spain.</p>
 
 		<p>I'm very pleased to have been a Google Summer of Code student in 2012 and I will be 
-		forever grateful to <a href="http://www.pandorafms.com">PandoraFMS</a> for the incredible
+		forever grateful to <a href="http://www.pandorafms.com" target="_blank">PandoraFMS</a> for the incredible
 		 experience they provided.</p>
 
 		<p>Forever sat in front of a screen gives me the time to listen to 
-		<a href="http://www.last.fm/user/mark29skate29">a lot of music</a>, I sometimes wish I could create
+		<a href="http://www.last.fm/user/mark29skate29" target="_blank">a lot of music</a>, I sometimes wish I could create
 		my own but I lack that brand of creativity.</p>
 		
 		<p>I also volunteer preparing unused computers to be donated to charities through a
-		 <a href="http://tv.inf.upv.es/?p=5097">University initiative</a>, it's a great opportunity
+		 <a href="http://tv.inf.upv.es/?p=5097" target="_blank">University initiative</a>, it's a great opportunity
 		  to come across interesting tech of yesterday.</p>
 
 		<p>If you want to contact me just drop a line at <a href="mailto:mark@partiallogic.com">mark@partiallogic.com</a></p>
@@ -66,7 +66,7 @@
 		<p><strong>About Partial Logic</strong></p>
 		<p>Partial Logic runs on PHP and CSS3, posts are written in markdown and there is no database, the entire site comes in at under 5MB. </p>
 			<p>It also has an <a href="<?php echo site_url() ?>/rss">RSS feed</a> and a JSON read-only API. The screen adapts automatically to size, to see, try portrait and landscape on a tablet.</p>
-			<p>It began from <a href="http://tutorialzine.com/2013/03/simple-php-blogging-system/">this</a> excellent tutorial but has been heavily adapted to my tastes.</p> 
+			<p>It began from <a href="http://tutorialzine.com/2013/03/simple-php-blogging-system/" target="_blank">this</a> excellent tutorial but has been heavily adapted to my tastes.</p> 
 			<p>It currently has a Google page speed score of 99/100.</p>
 		</div>
 	

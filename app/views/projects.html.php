@@ -56,17 +56,17 @@
 
 <p><img src="/images/projects/currencyconverter.png" alt="image" /></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/CurrencyConverter.jar">CurrencyConverter.jar</a></p>
+<p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/CurrencyConverter.jar" target="_blank">CurrencyConverter.jar</a></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/CurrencyConverter_src.zip">Currency Converter source code</a></p>
+<p><a href="http://github.com/markholland/QTJambi-Currency-Converter" target="_blank">Currency Converter source code</a></p>
 <hr>
 <p><strong>Text Editor</strong></p>
 
 <p><img src="/images/projects/texteditor.png" alt="image" /></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor.jar">TextEditor.jar</a></p>
+<p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor.jar" target="_blank">TextEditor.jar</a></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor_src.zip">Text Editor source code</a></p>
+<p><a href="http://github.com/markholland/QTJambi-Text-Editor" target="_blank">Text Editor source code</a></p>
 <hr>
 <p><strong>Android Port Scanner</strong></p>
 
@@ -77,9 +77,9 @@
 
 <p><img src="/images/projects/portscanner.png" alt="image" /></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/PortScannerAndroid-0.06.apk">PortScanner.apk</a></p>
+<p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/PortScannerAndroid-0.06.apk" target="_blank">PortScanner.apk</a></p>
 
-<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/PortScannerAndroid.zip">Port Scanner source code</a></p>
+<p><a href="http://github.com/markholland/PortScanner" target="_blank">Port Scanner source code</a></p>
 </body>
 </html>
 	
