@@ -27,7 +27,7 @@ body{
 
 a, a:visited {
 	outline:none;
-	color:#E00707;
+	color:#008a00;
 
 }
 
@@ -196,7 +196,7 @@ aside ul li a{
 }
 
 aside ul li a:hover{
-	background-color:#E00707;
+	background-color:#008a00;
 	color:#fff;
 }
 
