@@ -67,6 +67,15 @@
 <p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor.jar" target="_blank">TextEditor.jar</a></p>
 
 <p><a href="http://github.com/markholland/QTJambi-Text-Editor" target="_blank">Text Editor source code</a></p>
+
+<p><strong>Game Optimiser</strong></p>
+
+<p><img src="/images/projects/gameoptimiser.png" alt="image" /></p>
+
+<p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/GameOptimiser.jar" target="_blank">GameOptimiser.jar</a></p>
+
+<p><a href="https://github.com/markholland/QTJambi-Game-Optimizer" target="_blank">Game Optimiser source code</a></p>
+
 <hr>
 <p><strong>Android Port Scanner</strong></p>
 
