@@ -67,6 +67,7 @@
 <p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor.jar" target="_blank">TextEditor.jar</a></p>
 
 <p><a href="http://github.com/markholland/QTJambi-Text-Editor" target="_blank">Text Editor source code</a></p>
+<hr>
 
 <p><strong>Game Optimiser</strong></p>
 
