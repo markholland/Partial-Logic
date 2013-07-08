@@ -48,7 +48,7 @@
 		<div class="projects">
 		<p>Here you can find some things that I've worked on recently.</p>
 		<ul>
-<li>QTJambi is a no longer under active development implementation of QT in java, we have to use it at university so here are the last 2 things I made with it. The worst thing about QTJambi is you have to packet all the libraries with the jar and also it will only work on Windows.</li>
+<li>QTJambi is a no longer under active development implementation of QT in java, we have to use it at university so here are the last 3 things I made with it. The worst thing about QTJambi is you have to packet all the libraries with the jar and also it will only work on Windows.</li>
 </ul>
 
 
