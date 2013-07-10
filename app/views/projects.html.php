@@ -49,7 +49,7 @@
 		<p>Here you can find some things that I've worked on recently.</p>
 		
 <ul>
-<li>OCW-Android is an open source app to allow administrators of conferences to provide attendees with a way to view on their mobile devices the schedule, information on speakers and to also receive notifications of changes in location and times of talks. I am working on this is as part of Google Summer of Code 2013 with the <a href="http://osuosl.org">Oregon State University Open Source Lab.</a></li>
+<li>OCW-Android is an open source app to allow administrators of conferences to provide attendees with a way to view on their mobile devices the schedule, information on speakers and to also receive notifications of changes in location and times of talks. I am working on this is as part of <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code 2013</a> with the <a href="http://osuosl.org">Oregon State University Open Source Lab.</a></li>
 <p><img src="/images/projects/ocw-android.png" alt="image" /></p>
 <center><a href="https://github.com/markholland/ocw-android">OCW-Android source code on Github</a></center> </li>
 
@@ -57,7 +57,7 @@
 <hr>
 <br>
 <ul>
-<li>Pandroid is a Android agent for <a href="www.pandorafms.com">PandoraFMS</a> that allows monitoring many aspects of a Android device. I worked on it for Google Summer of Code 2012 and is pending release.<br>
+<li>Pandroid is a Android agent for <a href="www.pandorafms.com">PandoraFMS</a> that allows monitoring many aspects of a Android device. I worked on it for <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a> and is pending release.<br>
 <p><img src="/images/projects/pandroid-icon.png" alt="image" /></p>
 <center><a href="https://sourceforge.net/p/pandora/code/8502/tree/trunk/pandora_agents/android/">Pandroid source code on Sourceforge</a></center> </li>
 </ul>		
