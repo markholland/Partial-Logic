@@ -49,9 +49,7 @@
 		<p>This is where I pretend to be serious by applying knowledge
 		 from my current studies in I.T. at the Polytechnic University of Valencia in Spain.</p>
 
-		<p>I'm very pleased to have been a Google Summer of Code student in 2012 and I will be 
-		forever grateful to <a href="http://www.pandorafms.com" target="_blank">PandoraFMS</a> for the incredible
-		 experience they provided.</p>
+		<p>I'm very pleased to have been a Google Summer of Code student in 2012 & 2013</p>
 
 		<p>Forever sat in front of a screen gives me the time to listen to 
 		<a href="http://www.last.fm/user/mark29skate29" target="_blank">a lot of music</a>, I sometimes wish I could create
