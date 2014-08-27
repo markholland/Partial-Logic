@@ -31,20 +31,20 @@
  <h4>Like these</h4>
  <div class="likethese">
  <hr>
- <a href="http://www.bandness.com/"><img src="/images/icons/bandness.jpg"></a>
- <p><a href="http://www.bandness.com/" target="_blank">Discover</a> music that matches your tastes.</p>
+ <a href="http://4maw.co/"><img src="/images/icons/4maw.png"></a>
+ <p>The <a href="http://4maw.co/" target="_blank">next</a> big thing, one failure at a time.</p>
  <hr>
  <a href="http://www.linernotekids.com/"><img src="/images/icons/lnk.png"></a>
  <p><a href="http://www.linernotekids.com/" target="_blank">Apparel</a> inspired by Music.</p>
  <hr>
- <a href="http://www.front.me/"><img src="/images/icons/frontme.png"></a>
- <p><a href="http://www.front.me/" target="_blank">Front.me</a> is an innovative new way to consume information, version 2.0 launching soon.</p>
- <hr>
  <a href="http://www.theskyfall.com/"><img src="/images/icons/skyfall.png"></a>
- <p><a href="http://www.theskyfall.com/" target="_blank">The Skyfall</a> is your online source for videogame related news.</p>
+ <p>The <a href="http://www.theskyfall.com/" target="_blank">Skyfall</a> is your online source for videogame related news.</p>
+ <hr>
+ <a href="https://osuosl.org"><img src="/images/icons/osuosl.png"></a>
+ <p>The <a href="https://osuosl.org" target="_blank">Open Source Lab</a> is a nonprofit organization working for the advancement of open source technologies.</p>
  <hr>
  <a href="http://www.pandorafms.com/"><img src="/images/icons/pandora.png"></a>
- <p><a href="http://www.pandorafms.com/" target="_blank">Pandora FMS®</a> is a software-monitoring tool specially designed for large environments.</p>
+ <p><a href="http://www.pandorafms.com/" target="_blank">Pandora FMS®</a> is a software-monitoring tool specifically designed for large environments.</p>
  <hr>
  </div>
  </div>
