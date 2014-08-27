@@ -42,10 +42,11 @@
   <a href="http://tv.inf.upv.es/?p=5097" target="_blank">University initiative</a>, it's a great opportunity
   to come across interesting tech of yesterday.</p>
   <p>If you want to contact me just drop a line at <a href="mailto:mark@partiallogic.com">mark@partiallogic.com</a></p>
+  <p><a href="eff.org"><img style="border:0;" src="https://www.eff.org/sites/default/files/2014-members-circle.png" alt="EFF Members badge"></a></p>
   <hr>
   <p><strong>About Partial Logic</strong></p>
   <p>Partial Logic runs on PHP and CSS3, posts are written in markdown and there is no database, the entire site comes in at under 5MB. </p>
-  <p>It also has an <a href="<?php echo site_url() ?>/rss">RSS feed</a> and a JSON read-only API. The screen adapts automatically to size, to see, try portrait and landscape on a tablet.</p>
+  <p>It also has an <a href="<?php echo site_url() ?>/rss">RSS feed</a> and a JSON read-only API. The design is fully responsive.</p>
   <p>It began from <a href="http://tutorialzine.com/2013/03/simple-php-blogging-system/" target="_blank">this</a> excellent tutorial but has been heavily adapted to my tastes.</p> 
   <p>It currently has a Google page speed score of 94/100.</p>
   </div>
