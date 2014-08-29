@@ -211,6 +211,30 @@ aside p.author{
 }
 
 
+aside body {
+  background: #212833;
+	font: 100 14px sans-serif;
+	color: #000;
+  text-shadow: 0 1px 1px rgba(255,255,255,0.1);
+	text-align: center;	
+}
+::-moz-selection {
+  background: rgba(0,0,0,0.1);
+}
+::selection {
+  background: rgba(0,0,0,0.1);
+}
+aside h1 {
+  font-weight: 100;
+  font-size: 2.7em;
+}
+aside h3 {
+  color: #111222;
+  font-size: 1.6em;
+}
+
+
+
 /*----------------------------
 	Pagination buttons
 -----------------------------*/
