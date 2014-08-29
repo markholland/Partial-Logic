@@ -42,7 +42,7 @@
   <a href="http://tv.inf.upv.es/?p=5097" target="_blank">University initiative</a>, it's a great opportunity
   to come across interesting tech of yesterday.</p>
   <p>If you want to contact me just drop a line at <a href="mailto:mark@partiallogic.com">mark@partiallogic.com</a></p>
-  <p><a href="eff.org"><img style="border:0;" src="https://www.eff.org/sites/default/files/2014-members-circle.png" alt="EFF Members badge"></a></p>
+  <p><a href="http://www.eff.org" target="_blank"><img style="border:0;" src="https://www.eff.org/sites/default/files/2014-members-circle.png" alt="EFF Members badge"></a></p>
   <hr>
   <p><strong>About Partial Logic</strong></p>
   <p>Partial Logic runs on PHP and CSS3, posts are written in markdown and there is no database, the entire site comes in at under 5MB. </p>
