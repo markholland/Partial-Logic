@@ -16,6 +16,9 @@
 <body>
  <aside>
   <h1><a href="<?php echo site_url() ?>"><?php echo config('blog.title') ?></a></h1>
+  <a href="http://twitter.com/_markholland" class="circle">
+	<img height="64" width="64" src="http://twitter.com/api/users/profile_image?screen_name=_markholland" alt="Mark Holland">
+</a>
   <p class="description"><?php echo config('blog.description')?></p>
   <ul>
   <li><a href="<?php echo site_url() ?>">Home</a></li>
