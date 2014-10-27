@@ -20,7 +20,7 @@ After realising that I could just connect the Macbook to my desktop monitor and 
 
 Now being an old Laptop, it has old technology and old technology tends to have trouble running the latest OS and software. Well my Macbook is no exception and it can tend to get a little hot when doing too much at once. I'd read a lot about Macbooks sometimes overheating but they always quoted numbers in the 90 plus degrees when idle, this definitely didn't apply to my situation but I was still curious if anything could be done. I eventually cracked and decided to replace the thermal paste on the processor and graphics, this would be my first time replacing thermal paste on a laptop so I was little unsure if was taking one too many risks. I couldn't have been more wrong, I'd already dismantled the Macbook many times before, it gets pretty dusty in there as you can see below but removing the heat sink was just one more quick step and I was good to go.
 
-![dusty monitor](/images/posts/dusty-macbook.jpg)
+![dusty monitor](/images/posts/dusty-macbook.png)
  
 
 So what are the results, well, idle temperatures have dropped 10 degrees to below 50ºC. Now for a 65nm die inside a laptop this is pretty decent, obviously under load those temperatures can still rise pretty quickly but I've found that I can now do some light web browsing on the sofa without melting my thighs, a huge plus and made the risk truly worth it.

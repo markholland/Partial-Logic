@@ -16,7 +16,7 @@ So what changed? well nothing really, I’d never buy a mac, no matter how justi
 
 So after just 4 days on the waiting list I was granted my macbook for 15 days, the current gen white macbook to be exact.
 
-![unibody macbook](/images/posts/unibody-macbook.jpg)
+![unibody macbook](/images/posts/unibody-macbook.png)
 
 I’m not going to go into much detail but needless to say I was quickly impressed, It’s all about the subtleties that I won’t bother mentioning seeing as how if you own a mac you already know what I’d say and if you’re a non-user I doubt anything anyone could say would sway you towards osx.
 

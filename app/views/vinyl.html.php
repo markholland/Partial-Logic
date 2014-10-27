@@ -52,6 +52,14 @@
  
   
  <div class="gallerycontainer">
+ 	<a class="thumbnail" href="/images/gallery/fob-srar-large.png"><img src="/images/gallery/fob-srar-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/30stm-love-large.png"><img src="/images/gallery/30stm-love-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/muse-bhr-large.png"><img src="/images/gallery/muse-bhr-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/lilyallen-sheezus-large.png"><img src="/images/gallery/lilyallen-sheezus-small.png" border="0" />
+	<a class="thumbnail" href="/images/gallery/jew-invented-large.png"><img src="/images/gallery/jew-invented-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/fightstar-ew-large.png"><img src="/images/gallery/fightstar-ew-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/fys-shape-large.png"><img src="/images/gallery/fys-shape-small.png" border="0" />
+ 	<a class="thumbnail" href="/images/gallery/fys-enemy-large.png"><img src="/images/gallery/fys-enemy-small.png" border="0" />
  	<a class="thumbnail" href="/images/gallery/TBS-Where-large.png"><img src="/images/gallery/TBS-Where-small.png" border="0" />
 	<a class="thumbnail" href="/images/gallery/Butch-Walker-spade-large.png"><img src="/images/gallery/Butch-Walker-spade-small.png" border="0" />
 	<a class="thumbnail" href="/images/gallery/Pink-Floyd-Relics-large.png"><img src="/images/gallery/Pink-Floyd-Relics-small.png" border="0" />

@@ -2,7 +2,7 @@
 
 The first computer I ever used was a Macintosh Classic.
 
-![mac classic](/images/posts/Macintosh_classic.jpg)
+![mac classic](/images/posts/Macintosh_classic.png)
 
 This was during the first rise when if you wanted a computer that works then you had to get a Mac, so that’s what we had at home.
 
@@ -16,4 +16,4 @@ It’s hard to explain, but you can feel the difference just by thinking about t
 
 That difference is Steve Jobs.
 
-![steve jobs](/images/posts/steve_jobs.jpg)
+![steve jobs](/images/posts/steve_jobs.png)

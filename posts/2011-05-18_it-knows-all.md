@@ -17,7 +17,7 @@ It’s hard to find the reason why people, who in normal life would never consid
 
 So basically what I’m trying to say is, thank you to everyone who shares their knowledge with the rest of us, without these acts the internet would be a very different place.
 
-![dual monitor](/images/posts/life-before-google.jpg)
+![dual monitor](/images/posts/life-before-google.png)
 
 p.s. thanks to brian from [shoeboxblog](http://www.shoeboxblog.com/) for letting me use the image.
 
