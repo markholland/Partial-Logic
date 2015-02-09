@@ -37,6 +37,17 @@
  <div class="projects">
  <p>Here you can find some things that I've worked on recently.</p>
  <ul>
+ <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the Android App I worked on for Google Summer of Code 2013. the goal was to provide a stable base that follows the most recent Android guidelines in order to provide a project on which to build upon as requests come from the OpenConferenceWare community.
+ </li>
+ <p><img src="/images/projects/ocw-android-2014.png" alt="image" /></p>
+ <center><a href="https://github.com/markholland/ocw-android-2014">OCW-Android-2014 source code on Github</a></center> </li>
+ </ul>
+ <ul>
+ <li><a href="https://play.google.com/store/apps/details?id=com.fourmaw.wisemonkey.app&hl=en">Wise Monkey</a> is a fun Android app I worked on with a group of friends in order to gain experience in rapidly implementing an idea and publishing it.
+ </li>
+ <p><img src="/images/projects/wisemonkey.png" alt="image" /></p>
+ </ul>
+ <ul>
  <li>OCW-Android is an open source app to allow administrators of conferences to provide attendees with a way to view on their mobile devices the schedule, information on speakers and to also receive notifications of changes in location and times of talks. I worked on this is as part of <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code 2013</a> with the <a href="http://osuosl.org">Oregon State University Open Source Lab.</a></li>
  <p><img src="/images/projects/ocw-android.png" alt="image" /></p>
  <center><a href="https://github.com/markholland/ocw-android">OCW-Android source code on Github</a></center> </li>
