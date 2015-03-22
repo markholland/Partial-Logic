@@ -59,33 +59,6 @@
  <p><img src="/images/projects/pandroid-icon.png" alt="image" /></p>
  <center><a href="https://sourceforge.net/p/pandora/code/8502/tree/trunk/pandora_agents/android/">Pandroid source code on Sourceforge</a></center> </li>
  </ul>		
- <hr>
- <br>		
- <ul>
- <li>QTJambi is a no longer under active development implementation of QT in java, we have to use it at university so here are the last 3 things I made with it. The worst thing about QTJambi is you have to packet all the libraries with the jar and also it will only work on Windows.</li>
- </ul>
- <p><strong>Currency Converter</strong></p>
- <p><img src="/images/projects/currencyconverter.png" alt="image" /></p>
- <p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/CurrencyConverter.jar" target="_blank">CurrencyConverter.jar</a></p>
- <p><a href="http://github.com/markholland/QTJambi-Currency-Converter" target="_blank">Currency Converter source code</a></p>
- <hr>
- <p><strong>Text Editor</strong></p>
- <p><img src="/images/projects/texteditor.png" alt="image" /></p>
- <p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/TextEditor.jar" target="_blank">TextEditor.jar</a></p>
- <p><a href="http://github.com/markholland/QTJambi-Text-Editor" target="_blank">Text Editor source code</a></p>
- <hr>
- <p><strong>Game Optimiser</strong></p>
- <p><img src="/images/projects/gameoptimiser.png" alt="image" /></p>
- <p><a href="https://dl.dropboxusercontent.com/u/17033926/partiallogic/GameOptimiser.jar" target="_blank">GameOptimiser.jar</a></p>
- <p><a href="https://github.com/markholland/QTJambi-Game-Optimizer" target="_blank">Game Optimiser source code</a></p>
- <hr>
- <p><strong>Android Port Scanner</strong></p>
- <ul>
- <li>Just a quick port of a cli java port scanner, has many bugs so don't bother telling me about them, was mainly just to give some dazzle to the class presentation.</li>
- </ul>
- <p><img src="/images/projects/portscanner.png" alt="image" /></p>
- <p><a href="http://dl.dropboxusercontent.com/u/17033926/partiallogic/PortScannerAndroid-0.06.apk" target="_blank">PortScanner.apk</a></p>
- <p><a href="http://github.com/markholland/PortScanner" target="_blank">Port Scanner source code</a></p>
  </section>
 </body>
 </html>
