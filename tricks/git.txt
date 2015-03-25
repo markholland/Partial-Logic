@@ -1,0 +1,2 @@
+git diff --name-only HEAD~1 HEAD~2
+git show HEAD~1:file
