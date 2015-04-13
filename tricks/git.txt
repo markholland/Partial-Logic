@@ -1,2 +1,5 @@
 git diff --name-only HEAD~1 HEAD~2
 git show HEAD~1:file
+git push origin :branch
+git remote prune origin
+git commit -a --amend -C HEAD

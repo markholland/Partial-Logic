@@ -37,25 +37,52 @@
  <div class="projects">
  <p>Here you can find some things that I've worked on recently.</p>
  <ul>
- <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the Android App I worked on for Google Summer of Code 2013. the goal was to provide a stable base that follows the most recent Android guidelines in order to provide a project on which to build upon as requests come from the OpenConferenceWare community.
+ <li><a href="https://itunes.apple.com/us/app/sub-count/id977966794">sub count</a> is an <b>iOS</b> app for viewing your <b>YouTube</b> subscriber count. You can view the count in the app, with the optional widget in Notification Center or even on your wrist with the Watch app. Read more about my first <b>iOS</b> publishing experience <a href="http://www.partiallogic.com/2015/04/sub-count">here</a>.
  </li>
- <p><img src="/images/projects/ocw-android-2014.png" alt="image" /></p>
- <center><a href="https://github.com/markholland/ocw-android-2014">OCW-Android-2014 source code on Github</a></center> </li>
+ <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a></center>
+ <p><img src="/images/projects/subcount.png" alt="image" /></p>
+ <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the <b>Android</b> App I worked on for <b>Google Summer of Code 2013</b>. the goal was to provide a stable base that follows the most recent <b>Android guidelines</b> in order to provide a project on which to build upon as requests come from the <b>OpenConferenceWare<b/> community.
+ </li>
+ <center>
+ <a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+</a>
+<p><img src="/images/projects/ocw-android-2014.png" alt="image" /></p>
+ <a href="https://github.com/markholland/ocw-android-2014">
+  <img alt="View on Github"
+       src="http://www.partiallogic.com/images/GitHub_Logo.png" />
+ </a>
+ </center>
  </ul>
  <ul>
- <li><a href="https://play.google.com/store/apps/details?id=com.fourmaw.wisemonkey.app&hl=en">Wise Monkey</a> is a fun Android app I worked on with a group of friends in order to gain experience in rapidly implementing an idea and publishing it.
+ <li><a href="https://play.google.com/store/apps/details?id=com.fourmaw.wisemonkey.app&hl=en">Wise Monkey</a> is a fun <b>Android</b> app I worked on with a group of friends in order to gain experience in rapidly implementing an idea and publishing it.
  </li>
+ <a href="https://play.google.com/store/apps/details?id=com.fourmaw.wisemonkey.app">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+ </a>
  <p><img src="/images/projects/wisemonkey.png" alt="image" /></p>
  </ul>
  <ul>
- <li>OCW-Android is an open source app to allow administrators of conferences to provide attendees with a way to view on their mobile devices the schedule, information on speakers and to also receive notifications of changes in location and times of talks. I worked on this is as part of <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code 2013</a> with the <a href="http://osuosl.org">Oregon State University Open Source Lab.</a></li>
+ <li><b>OCW-Android</b> is an open source app to allow administrators of conferences to provide attendees with a way to view on their mobile devices the schedule, information on speakers and to also receive notifications of changes in location and times of talks. I worked on this is as part of <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2013">Google Summer of Code 2013</a> with the <a href="http://osuosl.org">Oregon State University Open Source Lab.</a></li>
  <p><img src="/images/projects/ocw-android.png" alt="image" /></p>
- <center><a href="https://github.com/markholland/ocw-android">OCW-Android source code on Github</a></center> </li>
+ <center>
+ <a href="https://github.com/markholland/ocw-android">
+  <img alt="View on Github"
+       src="http://www.partiallogic.com/images/GitHub_Logo.png" />
+</a>
+ </center> 
+ </li>
  </ul>
  <hr>
  <br>
  <ul>
- <li>Pandroid is a Android agent for <a href="www.pandorafms.com">PandoraFMS</a> that allows monitoring many aspects of a Android device. I worked on it for <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a> and can be found <a href="https://play.google.com/store/apps/details?id=pandroid.agent&hl=en">here</a> on the Play Store.<br>
+ <li>Pandroid is a <b>Android</b> agent for <a href="www.pandorafms.com">PandoraFMS</a> that allows monitoring many aspects of a <b>Android</b> device. I worked on it for <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a>.
+ <a href="https://play.google.com/store/apps/details?id=pandroid.agent">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+ </a>
  <p><img src="/images/projects/pandroid-icon.png" alt="image" /></p>
  <center><a href="https://sourceforge.net/p/pandora/code/8502/tree/trunk/pandora_agents/android/">Pandroid source code on Sourceforge</a></center> </li>
  </ul>		
