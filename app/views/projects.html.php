@@ -6,7 +6,7 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no" />
  <meta name="description" content="<?php echo config('blog.description')?>" />
- <link rel="alternate" type="application/rss+xml" title="<?php echo config('blog.title')?>  Feed" href="<?php echo site_url()?>rss" />
+ <link rel="alternate" type=" qapplication/rss+xml" title="<?php echo config('blog.title')?>  Feed" href="<?php echo site_url()?>rss" />
  <link href="<?php echo site_url() ?>assets/css/style_projects.css" rel="stylesheet" />
  <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
  <!--[if lt IE 9]>
@@ -39,8 +39,7 @@
  <ul>
  <li><a href="https://itunes.apple.com/us/app/sub-count/id977966794">sub count</a> is an <b>iOS</b> app for viewing your <b>YouTube</b> subscriber count. You can view the count in the app, with the optional widget in Notification Center or even on your wrist with the Watch app. Read more about my first <b>iOS</b> publishing experience <a href="http://www.partiallogic.com/2015/04/sub-count">here</a>.
  </li>
- <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=4" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png) no-repeat;width:135px;height:40px;@media only screen{background-image:url(https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.svg);}"></a></center>
- <p><img src="/images/projects/subcount.png" alt="image" /></p>
+ <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(../images/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(../images/badge_appstore-lrg.svg);}" alt="Download on the Apple App Store"></a><p><img src="/images/projects/subcount.png" alt="image" /></p></center>
  <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the <b>Android</b> App I worked on for <b>Google Summer of Code 2013</b>. the goal was to provide a stable base that follows the most recent <b>Android guidelines</b> in order to provide a project on which to build upon as requests come from the <b>OpenConferenceWare<b/> community.
  </li>
  <center>
