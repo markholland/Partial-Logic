@@ -39,7 +39,7 @@
  <ul>
  <li><a href="https://itunes.apple.com/us/app/sub-count/id977966794">sub count</a> is an <b>iOS</b> app for viewing your <b>YouTube</b> subscriber count. You can view the count in the app, with the optional widget in Notification Center or even on your wrist with the Watch app. Read more about my first <b>iOS</b> publishing experience <a href="http://www.partiallogic.com/2015/04/sub-count">here</a>.
  </li>
- <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(../images/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(../images/badge_appstore-lrg.svg);}" alt="Download on the Apple App Store"></a><p><img src="/images/projects/subcount.png" alt="image" /></p></center>
+ <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(../images/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(../images/badge_appstore-lrg.svg);}" alt="Download on the Apple App Store"r></a><p><img src="/images/projects/subcount.png" alt="image" /></p></center>
  <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the <b>Android</b> App I worked on for <b>Google Summer of Code 2013</b>. the goal was to provide a stable base that follows the most recent <b>Android guidelines</b> in order to provide a project on which to build upon as requests come from the <b>OpenConferenceWare<b/> community.
  </li>
  <center>
@@ -83,7 +83,12 @@
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
  </a>
  <p><img src="/images/projects/pandroid-icon.png" alt="image" /></p>
- <center><a href="https://sourceforge.net/p/pandora/code/8502/tree/trunk/pandora_agents/android/">Pandroid source code on Sourceforge</a></center> </li>
+ <center>
+ <a href="https://github.com/pandorafms/pandorafms/tree/develop/pandora_agents/android/mobile">
+  <img alt="View on Github"
+       src="http://www.partiallogic.com/images/GitHub_Logo.png" />
+</a>
+ </center> 
  </ul>		
  </section>
 </body>
