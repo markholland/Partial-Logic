@@ -191,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 #description {
 	margin: auto;
 	width: 90%;
-	max-width: 600px;
+	max-width: 700px;
 }
 #screenshots {
 	margin-bottom: 2em;
@@ -221,6 +221,10 @@ h1, h2, h3, h4, h5, h6 {
 #attribution a {
 	color: #8a0712;
 }
+
+p#copyright {
+	padding-bottom: 20px;
+}
 </style>
 
 
@@ -244,26 +248,24 @@ h1, h2, h3, h4, h5, h6 {
 	</div>
 	<div id='right'>
 		<div class='iphone'>
-			<img src='http://a2.mzstatic.com/us/r30/Purple5/v4/9a/6d/d9/9a6dd93f-6eb7-54aa-85c0-074ec6828259/screen1136x1136.jpeg'/>
+			<img src='http://a3.mzstatic.com/us/r30/Purple3/v4/32/f4/ac/32f4aced-db7f-38be-083b-fabf86088aed/screen1136x1136.jpeg'/>
 		</div>
 	</div>
 </div>
 
 <div id='icon-row'>
 	<div id='icon-container'>
-		<img src='http://a1632.phobos.apple.com/us/r30/Purple1/v4/f5/b0/78/f5b07879-8b0c-5f9d-d5e4-b5713766d5d7/pr_source.png?downloadKey=1429524491_7d3373bb4dd6d29f2d08759ef8bcd37f'/>
+		<img src='http://is1.mzstatic.com/image/pf/us/r30/Purple5/v4/e8/76/b1/e876b19f-d777-e4c6-7160-5ee31a695070/mzl.jtyqlquu.png'/>
 	</div>
 </div>
 
 <div id='screenshots'>
 	
-		<img src=http://a5.mzstatic.com/us/r30/Purple5/v4/9a/d9/8f/9ad98f3f-f5ef-bf72-4752-2f62331d1b2e/screen1136x1136.jpeg />
+		<img src=http://a4.mzstatic.com/us/r30/Purple7/v4/39/47/69/394769b8-baaf-8e86-c464-d90e8d40e62f/screen1136x1136.jpeg />
 	
-		<img src=http://a2.mzstatic.com/us/r30/Purple5/v4/8b/61/7e/8b617e0d-864f-bb8d-b9e9-1c3f21a161d5/screen1136x1136.jpeg />
+		<img src=http://a4.mzstatic.com/us/r30/Purple2/v4/cc/57/21/cc5721f0-51c3-8049-17bd-075d2c87c50e/screen1136x1136.jpeg />
 	
-		<img src=http://a3.mzstatic.com/us/r30/Purple2/v4/ca/30/e4/ca30e4b0-ea4f-4e5b-5a0d-79ba4773529b/screen1136x1136.jpeg />
-	
-		<img src=http://a4.mzstatic.com/us/r30/Purple3/v4/fc/2e/34/fc2e3492-b4e2-eee0-3337-ca1e4d1b0634/screen1136x1136.jpeg />
+		<img src=http://a3.mzstatic.com/us/r30/Purple1/v4/b7/d2/db/b7d2dbf8-62ed-fba0-050e-ef0eac70c500/screen1136x1136.jpeg />
 	
 </div>
 
@@ -271,9 +273,9 @@ h1, h2, h3, h4, h5, h6 {
 
 <p id='description'>Are you a budding YouTuber who incessantly keeps tabs on your rising subscriber count?
 
-sub count makes it a whole lot easier, simply type in your username and you&#39;ll always have the most up to date number of subscribers to your channel.
+sub count makes it a whole lot easier, simply type in your YouTube username and you&#39;ll always have the most up to date number of subscribers to your channel.
 
-With the sub count widget you can stay up to date on your count in a faster, more discrete manner.</p>
+With the sub count Notification Center Widget and Apple Watch Extension App you can stay up to date on your count in a faster, more discrete manner.
 
 <p>
 	<a href="https://itunes.apple.com/us/app/sub-count/id977966794"><img class='appstore' src='http://www.partiallogic.com/images/badge_appstore-lrg.png' alt='Download on the Apple App Store'/></a>
