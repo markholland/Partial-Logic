@@ -17,14 +17,14 @@
  <aside>
  <h1><a href="<?php echo site_url() ?>"><?php echo config('blog.title') ?></a></h1>
  
- <a href="http://twitter.com/_markholland" class="circle">
+ <a href="http://twitter.com/partialmark" class="circle">
 	<img height="64" width="64" src="http://partiallogic.com/images/avatar.png" alt="Mark Holland">
 </a>
  
  <p class="description"><?php echo config('blog.description')?></p>
  <ul>
  <li><a href="<?php echo site_url() ?>">Home</a></li>
- <li><a href="http://twitter.com/_markholland/" target="_blank">Twitter</a></li>
+ <li><a href="http://twitter.com/partialmark/" target="_blank">Twitter</a></li>
  <li><a href="/projects">Projects</a></li>
  <li><a href="/likethese">Like These</a></li>
  <li><a href="/about">About Me</a></li>

@@ -16,13 +16,13 @@
 <body>
  <aside>
  <h1><a href="<?php echo site_url() ?>"><?php echo config('blog.title') ?></a></h1>
- <a href="http://twitter.com/_markholland" class="circle">
+ <a href="http://twitter.com/partialmark" class="circle">
 	<img height="64" width="64" src="http://partiallogic.com/images/avatar.png" alt="Mark Holland">
 </a>
  <p class="description"><?php echo config('blog.description')?></p>
  <ul>
  <li><a href="<?php echo site_url() ?>">Home</a></li>
- <li><a href="http://twitter.com/_markholland/" target="_blank">Twitter</a></li>
+ <li><a href="http://twitter.com/partialmark/" target="_blank">Twitter</a></li>
  <li><a href="/projects">Projects</a></li>
  <li><a href="/likethese">Like These</a></li>
  <li><a href="/about">About Me</a></li>
@@ -37,7 +37,7 @@
  <div class="projects">
  <p>Here you can find some things that I've worked on recently.</p>
  <ul>
- <li><a href="https://itunes.apple.com/us/app/sub-count/id977966794">sub count</a> is an <b>iOS</b> app for viewing your <b>YouTube</b> subscriber count. You can view the count in the app, with the optional widget in Notification Center or even on your wrist with the Watch app. Read more about my first <b>iOS</b> publishing experience <a href="http://www.partiallogic.com/2015/04/sub-count">here</a>.
+ <li><a href="https://itunes.apple.com/us/app/sub-count/id977966794">sub count</a> is an <b>iOS</b> app for viewing your <b>YouTube</b> subscriber count. You can view the count in the app, with the optional widget in Notification Center or even on your wrist with the Watch app. Read more about my first <b>iOS</b> publishing experience <a href="http://www.partiallogic.com/2015/04/sub-count">here</a> or take a peek at the source code <a href="https://github.com/markholland/sub-count">here</a>.
  </li>
  <center><a href="https://itunes.apple.com/us/app/sub-count/id977966794?mt=8&uo=6&at=&ct=" target="itunes_store" style="display:inline-block;overflow:hidden;background:url(../images/badge_appstore-lrg.png) no-repeat;width:165px;height:40px;@media only screen{background-image:url(../images/badge_appstore-lrg.svg);}" alt="Download on the Apple App Store"r></a><p><img src="/images/projects/subcount.png" alt="image" /></p></center>
  <li><a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">OCW-Android-2014</a> is a complete rewrite from scratch of the <b>Android</b> App I worked on for <b>Google Summer of Code 2013</b>. the goal was to provide a stable base that follows the most recent <b>Android guidelines</b> in order to provide a project on which to build upon as requests come from the <b>OpenConferenceWare<b/> community.

@@ -16,13 +16,13 @@
 <body>
  <aside>
   <h1><a href="<?php echo site_url() ?>"><?php echo config('blog.title') ?></a></h1>
- <a href="http://twitter.com/_markholland" class="circle">
+ <a href="http://twitter.com/partialmark" class="circle">
 	<img height="64" width="64" src="http://partiallogic.com/images/avatar.png" alt="Mark Holland">
 </a>
   <p class="description"><?php echo config('blog.description')?></p>
   <ul>
   <li><a href="<?php echo site_url() ?>">Home</a></li>
-  <li><a href="http://twitter.com/_markholland/" target="_blank">Twitter</a></li>
+  <li><a href="http://twitter.com/partialmark/" target="_blank">Twitter</a></li>
   <li><a href="/projects">Projects</a></li>
   <li><a href="/likethese">Like These</a></li>
   <li><a href="/about">About Me</a></li>
@@ -36,14 +36,11 @@
  </div>
   <div class="about">
   <p>This is where I pretend to be serious by applying knowledge
-  from my current studies in I.T. at the Polytechnic University of Valencia in Spain.</p>
-  <p>I'm very pleased to have been a Google Summer of Code student in 2012 & 2013</p>
+  from my years messing around with computers.</p>
+  <p>I'm very pleased to have been a Google Summer of Code student way back in 2012 & 2013.</p>
   <p>Forever sat in front of a screen gives me the time to listen to 
   <a href="http://www.last.fm/user/mark29skate29" target="_blank">a lot of music</a>, I sometimes wish I could create
   my own but I lack that brand of creativity.</p>
-  <p>I also volunteer preparing unused computers to be donated to charities through a
-  <a href="http://tv.inf.upv.es/?p=5097" target="_blank">University initiative</a>, it's a great opportunity
-  to come across interesting tech of yesterday.</p>
   <p>If you want to contact me just drop a line at <a href="mailto:mark@partiallogic.com">mark@partiallogic.com</a></p>
   <p><a href="http://www.eff.org" target="_blank"><img style="border:0;" src="https://www.eff.org/sites/default/files/2014-members-circle.png" alt="EFF Members badge"></a></p>
   <hr>
