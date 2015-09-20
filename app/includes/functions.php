@@ -122,6 +122,7 @@ function generate_rss($posts){
 	$channel
 		->title(config('blog.title'))
 		->description(config('blog.description'))
+		->language('en-US')
 		->url(site_url())
 		->appendTo($feed);
 
