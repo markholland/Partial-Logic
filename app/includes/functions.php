@@ -111,6 +111,16 @@ function likethese(){
 	render('likethese', null, false);
 }
 
+// Show the lastfm page
+function lastfm(){
+	render('lastfm', null, false);
+}
+
+// Show the cv page
+function cv(){
+	render('cv', null, false);
+}
+
 
 	
 // Turn an array of posts into an RSS feed

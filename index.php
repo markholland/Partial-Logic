@@ -81,6 +81,16 @@ get('/likethese',function(){
 	likethese();
 });
 
+// Show the likethese page
+get('/lastfm',function(){
+	lastfm();
+});
+
+// Show the likethese page
+get('/cv',function(){
+	cv();
+});
+
 
 // If we get here, it means that
 // nothing has been matched above
