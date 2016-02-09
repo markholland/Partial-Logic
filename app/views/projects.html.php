@@ -7,8 +7,8 @@
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no" />
  <meta name="description" content="<?php echo config('blog.description')?>" />
  <link rel="alternate" type=" qapplication/rss+xml" title="<?php echo config('blog.title')?>  Feed" href="<?php echo site_url()?>rss" />
- <link href="<?php echo site_url() ?>assets/css/style_projects.css" rel="stylesheet" />
- <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
+ <link type="text/css" rel="stylesheet"link href="../../assets/css/style_projects.css" />
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
  <!--[if lt IE 9]>
  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
  <![endif]-->
@@ -45,7 +45,7 @@
  <center>
  <a href="https://play.google.com/store/apps/details?id=com.partiallogic.ocw_android_2014">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+       src="/images/en-play-badge.png" />
 </a>
 <p><img src="/images/projects/ocw-android-2014.png" alt="image" /></p>
  <a href="https://github.com/markholland/ocw-android-2014">
@@ -59,7 +59,7 @@
  </li>
  <a href="https://play.google.com/store/apps/details?id=com.fourmaw.wisemonkey.app">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+       src="/images/en-play-badge.png" />
  </a>
  <p><img src="/images/projects/wisemonkey.png" alt="image" /></p>
  </ul>
@@ -80,7 +80,7 @@
  <li>Pandroid is a <b>Android</b> agent for <a href="www.pandorafms.com">PandoraFMS</a> that allows monitoring many aspects of a <b>Android</b> device. I worked on it for <a href="http://www.google-melange.com/gsoc/homepage/google/gsoc2012">Google Summer of Code 2012</a>.
  <a href="https://play.google.com/store/apps/details?id=pandroid.agent">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_45.png" />
+       src="/images/en-play-badge.png" />
  </a>
  <p><img src="/images/projects/pandroid-icon.png" alt="image" /></p>
  <center>

@@ -3,9 +3,9 @@
 <head>
  <meta charset="utf-8" />
  <title>last.fm | <?php echo config('blog.title') ?></title>
- <link href="<?php echo site_url() ?>assets/css/style_404.css" rel="stylesheet" />
+ <link type="text/css" rel="stylesheet"link href="../../assets/css/style_404.css" />
  <!-- Include the Open Sans font -->
- <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
 </head>
 <body>
  <div class="center message">

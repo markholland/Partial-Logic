@@ -7,8 +7,8 @@
  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no" />
  <meta name="description" content="<?php echo config('blog.description')?>" />
  <link rel="alternate" type="application/rss+xml" title="<?php echo config('blog.title')?>  Feed" href="<?php echo site_url()?>rss" />
- <link href="<?php echo site_url() ?>assets/css/style_about.css" rel="stylesheet" />
- <link href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
+ <link type="text/css" rel="stylesheet"link href="../../assets/css/style_about.css" />
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700&subset=latin,cyrillic-ext" rel="stylesheet" />
  <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
  <![endif]-->
